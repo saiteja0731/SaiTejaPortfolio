@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SaiTejaPortfolio/static/css/main.81cfad0d.css",
+    "main.js": "/SaiTejaPortfolio/static/js/main.a16d350d.js",
+    "static/media/sai.png": "/SaiTejaPortfolio/static/media/sai.8c980a277e2cad4ba8b5.png",
+    "static/media/14.jpeg": "/SaiTejaPortfolio/static/media/14.6a54aca8487f900dc3c3.jpeg",
+    "static/media/cal.gif": "/SaiTejaPortfolio/static/media/cal.76b44cc36a9118b21027.gif",
+    "static/media/UC.jpeg": "/SaiTejaPortfolio/static/media/UC.10f5df0185f0ac1ab8e8.jpeg",
+    "static/media/arun.png": "/SaiTejaPortfolio/static/media/arun.5eb5a05b3a4f294254bd.png",
+    "static/media/revanth.png": "/SaiTejaPortfolio/static/media/revanth.7946ba45e32ba18451bb.png",
+    "static/media/aditya.png": "/SaiTejaPortfolio/static/media/aditya.b21f8161154dae4a4cdf.png",
+    "static/media/Sai Teja Boorgu.pdf": "/SaiTejaPortfolio/static/media/Sai Teja Boorgu.bf6a046f1add244663b6.pdf",
+    "static/media/sahith.png": "/SaiTejaPortfolio/static/media/sahith.f4f75df16a4281421706.png",
+    "static/media/MREC.webp": "/SaiTejaPortfolio/static/media/MREC.479d3b74dbb1888997a0.webp",
+    "static/media/S3.png": "/SaiTejaPortfolio/static/media/S3.c4d1f03dd1d0cffa3aca.png",
+    "static/media/foodtruck.avif": "/SaiTejaPortfolio/static/media/foodtruck.5605ea19b814a9112d6f.avif",
+    "index.html": "/SaiTejaPortfolio/index.html",
+    "main.81cfad0d.css.map": "/SaiTejaPortfolio/static/css/main.81cfad0d.css.map",
+    "main.a16d350d.js.map": "/SaiTejaPortfolio/static/js/main.a16d350d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81cfad0d.css",
+    "static/js/main.a16d350d.js"
+  ]
+}
